@@ -1,0 +1,4 @@
+[submodule "thisisahugotest/public"]
+	path = thisisahugotest/public
+	url = https://github.com/jmonroynieto/thisisahugotest.github.io.git
+	branch = main

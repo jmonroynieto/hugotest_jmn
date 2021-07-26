@@ -1,0 +1,7 @@
+baseURL = "https://juanmonroynieto.info/thisisahugotest.github.io/"
+languageCode = "en-us"
+title = "Thisisahugotest"
+theme="hugo-theme-terminal"
+[params]
+  fullWidthTheme = false
+  centerTheme = true
